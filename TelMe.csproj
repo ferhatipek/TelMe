@@ -33,7 +33,7 @@
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.1" />
     <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="10.0.1" />
   <PackageReference Include="Microsoft.NET.ILLink.Tasks" Version="9.0.11" />
-    <PackageReference Include="Tools.InnoSetup" Version="6.6.1" />
+    <PackageReference Include="Tools.InnoSetup" Version="6.7.0" />
 
   </ItemGroup>
 
