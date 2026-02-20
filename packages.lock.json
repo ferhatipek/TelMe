@@ -69,9 +69,9 @@
       },
       "Tools.InnoSetup": {
         "type": "Direct",
-        "requested": "[6.7.0, )",
-        "resolved": "6.7.0",
-        "contentHash": "lYMPxUkFCMIgjXMcSsAeRiVnszWLtwuHRxyrMD1e0q9pXxS3+Kr8Pq/zPwKdwIcSFU1a0AlyaWiyxm4MJz6tAA=="
+        "requested": "[6.7.1, )",
+        "resolved": "6.7.1",
+        "contentHash": "JQ8DvJpYcmPREpIdK2CCLuaDSo5ICoveMy8juaUjdB6PA3xXvoguq6Z2Ki94MSEiLEKcBlWx7pdiRB+mrUp6wg=="
       },
       "Microsoft.Extensions.Configuration": {
         "type": "Transitive",
